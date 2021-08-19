@@ -6,7 +6,7 @@ I am...
 - An open-source enthusiast
 - Privacy-conscious
 ## Software I use and Love
-**Web Browser:** [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)  
+**Web Browser:** [Vivaldi](https://vivaldi.com) for browsing, [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for web development  
 **Text Editor:** [Visual Studio Code by Microsoft](https://code.visualstudio.com/)   
 **Discord Bot Host:** [Motion Host](https://hosting.motiondevelopment.top)  
 ## Languages
